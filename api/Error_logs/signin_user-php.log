@@ -1,0 +1,207 @@
+[22-Jan-2021 12:07:31 UTC] hello 
+[22-Jan-2021 12:07:31 UTC] hello 
+[22-Jan-2021 12:07:31 UTC] Connection created successfully
+[22-Jan-2021 12:08:28 UTC] hello 
+[22-Jan-2021 12:08:28 UTC] Connection created successfully
+[22-Jan-2021 12:10:20 UTC] hello 
+[22-Jan-2021 12:10:20 UTC] Connection created successfully
+[22-Jan-2021 12:11:40 UTC] hello 
+[22-Jan-2021 12:11:40 UTC] Connection created successfully
+[22-Jan-2021 12:41:41 UTC] hello 
+[22-Jan-2021 12:41:41 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[22-Jan-2021 12:41:41 UTC] PHP Stack trace:
+[22-Jan-2021 12:41:41 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 07:38:01 UTC] hello 
+[25-Jan-2021 07:38:01 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 07:38:01 UTC] PHP Stack trace:
+[25-Jan-2021 07:38:01 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 07:41:16 UTC] hello 
+[25-Jan-2021 07:41:16 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 07:41:16 UTC] PHP Stack trace:
+[25-Jan-2021 07:41:16 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 07:41:59 UTC] hello 
+[25-Jan-2021 07:41:59 UTC] hello 
+[25-Jan-2021 07:41:59 UTC] Connection created successfully
+[25-Jan-2021 07:42:04 UTC] hello 
+[25-Jan-2021 07:42:04 UTC] Connection created successfully
+[25-Jan-2021 07:42:06 UTC] hello 
+[25-Jan-2021 07:42:06 UTC] Connection created successfully
+[25-Jan-2021 07:42:14 UTC] hello 
+[25-Jan-2021 07:42:14 UTC] Connection created successfully
+[25-Jan-2021 10:16:31 UTC] hello 
+[25-Jan-2021 10:16:31 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 10:16:31 UTC] PHP Stack trace:
+[25-Jan-2021 10:16:31 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 10:16:55 UTC] hello 
+[25-Jan-2021 10:16:55 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 10:16:55 UTC] PHP Stack trace:
+[25-Jan-2021 10:16:55 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 10:16:59 UTC] hello 
+[25-Jan-2021 10:16:59 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 10:16:59 UTC] PHP Stack trace:
+[25-Jan-2021 10:16:59 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 10:17:01 UTC] hello 
+[25-Jan-2021 10:17:01 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 10:17:01 UTC] PHP Stack trace:
+[25-Jan-2021 10:17:01 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 10:37:18 UTC] hello 
+[25-Jan-2021 10:37:18 UTC] PHP Notice:  Undefined index: user_id in C:\wamp64\www\vyog\api\my_account.php on line 16
+[25-Jan-2021 10:37:18 UTC] PHP Stack trace:
+[25-Jan-2021 10:37:19 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\my_account.php:0
+[25-Jan-2021 10:53:48 UTC] hello 
+[25-Jan-2021 10:53:48 UTC] hello 
+[25-Jan-2021 10:53:48 UTC] Connection created successfully
+[25-Jan-2021 10:54:07 UTC] hello 
+[25-Jan-2021 10:54:07 UTC] Connection created successfully
+[25-Jan-2021 10:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserSession() on array in C:\wamp64\www\vyog\api\signin_user.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\vyog\api\signin_user.php on line 40
+[25-Jan-2021 10:54:18 UTC] hello 
+[25-Jan-2021 10:54:18 UTC] Connection created successfully
+[25-Jan-2021 10:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserSession() on array in C:\wamp64\www\vyog\api\signin_user.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\vyog\api\signin_user.php on line 40
+[25-Jan-2021 10:54:21 UTC] hello 
+[25-Jan-2021 10:54:21 UTC] Connection created successfully
+[25-Jan-2021 10:54:44 UTC] hello 
+[25-Jan-2021 10:54:44 UTC] Connection created successfully
+[25-Jan-2021 10:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserSession() on array in C:\wamp64\www\vyog\api\signin_user.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\vyog\api\signin_user.php on line 40
+[25-Jan-2021 10:55:07 UTC] hello 
+[25-Jan-2021 10:55:07 UTC] Connection created successfully
+[25-Jan-2021 10:55:07 UTC] PHP Notice:  Undefined variable: id in C:\wamp64\www\vyog\api\signin_user.php on line 40
+[25-Jan-2021 10:55:07 UTC] PHP Stack trace:
+[25-Jan-2021 10:55:07 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\signin_user.php:0
+[25-Jan-2021 10:55:07 UTC] Connection created successfully
+[25-Jan-2021 10:55:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_upd' in 'field list' in C:\wamp64\www\vyog\api\ModelUsers.php:56
+Stack trace:
+#0 C:\wamp64\www\vyog\api\ModelUsers.php(56): PDO->prepare('UPDATE users SE...')
+#1 C:\wamp64\www\vyog\api\signin_user.php(40): ModelUsers->updateUserSession('qo0u4qvl1v21jbt...', 1611658507, NULL, '2021-01-25 10:5...')
+#2 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 56
+[25-Jan-2021 10:55:57 UTC] hello 
+[25-Jan-2021 10:55:57 UTC] Connection created successfully
+[25-Jan-2021 10:55:57 UTC] PHP Notice:  Undefined variable: id in C:\wamp64\www\vyog\api\signin_user.php on line 40
+[25-Jan-2021 10:55:57 UTC] PHP Stack trace:
+[25-Jan-2021 10:55:57 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\signin_user.php:0
+[25-Jan-2021 10:55:57 UTC] Connection created successfully
+[25-Jan-2021 10:56:21 UTC] hello 
+[25-Jan-2021 10:56:21 UTC] Connection created successfully
+[25-Jan-2021 10:56:21 UTC] Connection created successfully
+[25-Jan-2021 11:00:10 UTC] hello 
+[25-Jan-2021 11:00:10 UTC] Connection created successfully
+[25-Jan-2021 11:00:10 UTC] Connection created successfully
+[25-Jan-2021 11:07:32 UTC] hello 
+[25-Jan-2021 11:07:32 UTC] Connection created successfully
+[25-Jan-2021 11:07:32 UTC] Connection created successfully
+[25-Jan-2021 11:09:47 UTC] hello 
+[25-Jan-2021 11:09:47 UTC] Connection created successfully
+[25-Jan-2021 11:09:47 UTC] Connection created successfully
+[25-Jan-2021 11:18:28 UTC] hello 
+[25-Jan-2021 11:57:47 UTC] hello 
+[25-Jan-2021 11:57:47 UTC] hello 
+[25-Jan-2021 11:57:47 UTC] Connection created successfully
+[25-Jan-2021 11:57:47 UTC] Connection created successfully
+[25-Jan-2021 12:02:50 UTC] hello 
+[25-Jan-2021 12:02:50 UTC] Connection created successfully
+[25-Jan-2021 12:02:51 UTC] Connection created successfully
+[25-Jan-2021 12:03:53 UTC] hello 
+[25-Jan-2021 12:03:53 UTC] Connection created successfully
+[25-Jan-2021 12:03:53 UTC] Connection created successfully
+[25-Jan-2021 12:18:20 UTC] hello 
+[25-Jan-2021 12:18:20 UTC] Connection created successfully
+[25-Jan-2021 12:18:20 UTC] Connection created successfully
+[25-Jan-2021 12:18:23 UTC] hello 
+[25-Jan-2021 12:18:23 UTC] Connection created successfully
+[25-Jan-2021 12:18:23 UTC] Connection created successfully
+[25-Jan-2021 12:18:28 UTC] hello 
+[25-Jan-2021 12:18:28 UTC] Connection created successfully
+[25-Jan-2021 12:18:28 UTC] Connection created successfully
+[25-Jan-2021 12:24:19 UTC] hello 
+[25-Jan-2021 12:24:19 UTC] Connection created successfully
+[25-Jan-2021 12:24:19 UTC] Connection created successfully
+[25-Jan-2021 12:25:09 UTC] hello 
+[25-Jan-2021 12:25:09 UTC] Connection created successfully
+[25-Jan-2021 12:25:10 UTC] Connection created successfully
+[25-Jan-2021 12:31:47 UTC] hello 
+[25-Jan-2021 12:31:47 UTC] Connection created successfully
+[25-Jan-2021 12:31:47 UTC] Connection created successfully
+[25-Jan-2021 12:34:55 UTC] hello 
+[25-Jan-2021 12:34:55 UTC] Connection created successfully
+[25-Jan-2021 12:34:55 UTC] Connection created successfully
+[25-Jan-2021 12:35:21 UTC] hello 
+[25-Jan-2021 12:35:21 UTC] Connection created successfully
+[25-Jan-2021 12:35:21 UTC] Connection created successfully
+[25-Jan-2021 13:39:09 UTC] hello 
+[25-Jan-2021 13:39:09 UTC] hello 
+[25-Jan-2021 13:39:09 UTC] Connection created successfully
+[25-Jan-2021 13:39:09 UTC] Connection created successfully
+[25-Jan-2021 13:42:44 UTC] hello 
+[25-Jan-2021 13:42:44 UTC] Connection created successfully
+[25-Jan-2021 13:42:44 UTC] Connection created successfully
+[25-Jan-2021 13:43:26 UTC] hello 
+[25-Jan-2021 13:43:26 UTC] Connection created successfully
+[25-Jan-2021 13:43:26 UTC] Connection created successfully
+[25-Jan-2021 13:48:25 UTC] hello 
+[25-Jan-2021 13:48:25 UTC] Connection created successfully
+[25-Jan-2021 13:48:25 UTC] Connection created successfully
+[25-Jan-2021 13:49:11 UTC] hello 
+[25-Jan-2021 13:49:11 UTC] Connection created successfully
+[25-Jan-2021 13:49:12 UTC] Connection created successfully
+[25-Jan-2021 13:50:15 UTC] hello 
+[25-Jan-2021 13:50:15 UTC] Connection created successfully
+[25-Jan-2021 13:50:15 UTC] Connection created successfully
+[25-Jan-2021 13:51:31 UTC] hello 
+[25-Jan-2021 13:51:31 UTC] Connection created successfully
+[25-Jan-2021 13:51:31 UTC] Connection created successfully
+[25-Jan-2021 13:53:40 UTC] hello 
+[25-Jan-2021 13:53:40 UTC] Connection created successfully
+[25-Jan-2021 13:53:40 UTC] Connection created successfully
+[25-Jan-2021 13:54:25 UTC] hello 
+[25-Jan-2021 13:54:25 UTC] Connection created successfully
+[25-Jan-2021 13:54:25 UTC] Connection created successfully
+[25-Jan-2021 13:54:55 UTC] hello 
+[25-Jan-2021 13:54:55 UTC] Connection created successfully
+[25-Jan-2021 13:54:55 UTC] Connection created successfully
+[25-Jan-2021 14:00:43 UTC] hello 
+[25-Jan-2021 14:00:43 UTC] Connection created successfully
+[25-Jan-2021 14:00:43 UTC] Connection created successfully
+[25-Jan-2021 14:02:17 UTC] hello 
+[25-Jan-2021 14:02:18 UTC] Connection created successfully
+[25-Jan-2021 14:02:18 UTC] Connection created successfully
+[25-Jan-2021 14:04:39 UTC] hello 
+[25-Jan-2021 14:04:39 UTC] Connection created successfully
+[25-Jan-2021 14:04:39 UTC] session_token: 
+[25-Jan-2021 14:04:39 UTC] Connection created successfully
+[25-Jan-2021 14:04:50 UTC] hello 
+[25-Jan-2021 14:04:50 UTC] Connection created successfully
+[25-Jan-2021 14:04:50 UTC] session_token: 
+[25-Jan-2021 14:04:50 UTC] Connection created successfully
+[25-Jan-2021 14:06:37 UTC] hello 
+[25-Jan-2021 14:06:37 UTC] session_token: iuctuqh17h39tuio52k7erb5bj
+[27-Jan-2021 06:10:32 UTC] hello 
+[27-Jan-2021 06:10:32 UTC] hello 
+[27-Jan-2021 06:10:32 UTC] session_token: 7klgr0d48ndudblpjovfp3oa8o
+[27-Jan-2021 06:11:30 UTC] hello 
+[27-Jan-2021 06:11:30 UTC] session_token: 699hi32f9rtgseucj5mhalv1m5
+[27-Jan-2021 06:12:40 UTC] hello 
+[27-Jan-2021 06:12:40 UTC] session_token: 4cp6dlkevpk345en32tb1tdnpg
+[28-Jan-2021 05:48:07 UTC] hello 
+[28-Jan-2021 05:48:48 UTC] hello 
+[28-Jan-2021 05:48:48 UTC] hello 
+[28-Jan-2021 05:48:49 UTC] session_token: k78cs1v96upbrltcnai1phsldk
+[28-Jan-2021 05:49:49 UTC] hello 
+[28-Jan-2021 05:49:49 UTC] session_token: im3otn01fo8mdrjf9ul5lh2eid
+[28-Jan-2021 05:50:55 UTC] hello 
+[28-Jan-2021 05:50:55 UTC] session_token: re40j7r9h0hjcmrmbv65bk2229
+[28-Jan-2021 06:27:13 UTC] hello 
+[28-Jan-2021 06:27:13 UTC] session_token: vhi05ots2816qoav3o07a41dvn
+[28-Jan-2021 09:57:40 UTC] hello 
+[28-Jan-2021 09:57:40 UTC] hello 
+[28-Jan-2021 09:57:40 UTC] session_token: 7ui8btsbmaggr9kv0qn95ismu3
+[28-Jan-2021 09:59:05 UTC] hello 
+[28-Jan-2021 09:59:05 UTC] session_token: pjae0fbspnj1tfl56slcuiokm0

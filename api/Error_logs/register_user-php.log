@@ -1,0 +1,236 @@
+[21-Jan-2021 13:44:54 UTC] hello 
+[21-Jan-2021 13:45:48 UTC] hello 
+[21-Jan-2021 13:46:02 UTC] hello 
+[21-Jan-2021 13:46:41 UTC] hello 
+[21-Jan-2021 13:46:41 UTC] Connection created successfully
+[21-Jan-2021 14:02:27 UTC] hello 
+[21-Jan-2021 14:02:27 UTC] Connection created successfully
+[21-Jan-2021 14:02:27 UTC] Connection created successfully
+[21-Jan-2021 14:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::prepare() in C:\wamp64\www\vyog\api\ModelUsers.php:11
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$581ddFAS...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 11
+[21-Jan-2021 14:03:05 UTC] hello 
+[21-Jan-2021 14:03:05 UTC] Connection created successfully
+[21-Jan-2021 14:03:05 UTC] Connection created successfully
+[21-Jan-2021 14:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:11
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$BAVEqVZW...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 11
+[21-Jan-2021 14:05:12 UTC] hello 
+[21-Jan-2021 14:05:12 UTC] Connection created successfully
+[21-Jan-2021 14:05:12 UTC] Connection created successfully
+[21-Jan-2021 14:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$WWRmmzI0...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[21-Jan-2021 14:05:34 UTC] hello 
+[21-Jan-2021 14:05:34 UTC] Connection created successfully
+[21-Jan-2021 14:05:34 UTC] Connection created successfully
+[21-Jan-2021 14:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$E.iPz6VJ...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[21-Jan-2021 14:05:50 UTC] hello 
+[21-Jan-2021 14:05:50 UTC] Connection created successfully
+[21-Jan-2021 14:05:50 UTC] Connection created successfully
+[21-Jan-2021 14:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::prepare() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$PI9IPxZG...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[21-Jan-2021 14:06:59 UTC] hello 
+[21-Jan-2021 14:06:59 UTC] Connection created successfully
+[21-Jan-2021 14:06:59 UTC] Connection created successfully
+[21-Jan-2021 14:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$JfYTYBWg...', '2021-01-21 14:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 06:00:48 UTC] hello 
+[22-Jan-2021 06:00:48 UTC] hello 
+[22-Jan-2021 06:00:48 UTC] Connection created successfully
+[22-Jan-2021 06:00:48 UTC] Connection created successfully
+[22-Jan-2021 06:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$84elWSMC...', '2021-01-22 06:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 06:02:24 UTC] hello 
+[22-Jan-2021 06:02:24 UTC] Connection created successfully
+[22-Jan-2021 06:02:24 UTC] Connection created successfully
+[22-Jan-2021 06:02:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$20FDZP8K...', '2021-01-22 06:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 06:30:40 UTC] hello 
+[22-Jan-2021 06:30:40 UTC] Connection created successfully
+[22-Jan-2021 06:30:40 UTC] Connection created successfully
+[22-Jan-2021 06:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$y95IWxdh...', '2021-01-22 06:3...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 06:35:54 UTC] hello 
+[22-Jan-2021 06:35:54 UTC] Connection created successfully
+[22-Jan-2021 06:35:54 UTC] PDO::__set_state(array(
+))
+[22-Jan-2021 06:35:54 UTC] Connection created successfully
+[22-Jan-2021 06:35:54 UTC] PDO::__set_state(array(
+))
+[22-Jan-2021 06:35:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::query() in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$BUgmyQPI...', '2021-01-22 06:3...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 06:45:13 UTC] hello 
+[22-Jan-2021 06:45:13 UTC] PHP Fatal error:  Access level to ModelUsers::$db must be public (as in class Db) in C:\wamp64\www\vyog\api\ModelUsers.php on line 0
+[22-Jan-2021 06:45:13 UTC] PHP Stack trace:
+[22-Jan-2021 06:45:13 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 06:47:39 UTC] hello 
+[22-Jan-2021 06:47:39 UTC] PHP Fatal error:  Access level to ModelUsers::$db must be public (as in class Db) in C:\wamp64\www\vyog\api\ModelUsers.php on line 0
+[22-Jan-2021 06:47:39 UTC] PHP Stack trace:
+[22-Jan-2021 06:47:39 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 06:49:54 UTC] hello 
+[22-Jan-2021 06:49:54 UTC] PHP Fatal error:  Access level to ModelUsers::$db must be public (as in class Db) in C:\wamp64\www\vyog\api\ModelUsers.php on line 0
+[22-Jan-2021 06:49:54 UTC] PHP Stack trace:
+[22-Jan-2021 06:49:54 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 06:51:43 UTC] hello 
+[22-Jan-2021 06:51:43 UTC] PHP Fatal error:  Access level to ModelUsers::$db must be public (as in class Db) in C:\wamp64\www\vyog\api\ModelUsers.php on line 0
+[22-Jan-2021 06:51:43 UTC] PHP Stack trace:
+[22-Jan-2021 06:51:43 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:06:26 UTC] hello 
+[22-Jan-2021 07:06:26 UTC] hello 
+[22-Jan-2021 07:06:26 UTC] Connection created successfully
+[22-Jan-2021 07:06:26 UTC] Connection created successfully
+[22-Jan-2021 07:06:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031  in C:\wamp64\www\vyog\api\ModelUsers.php:14
+Stack trace:
+#0 C:\wamp64\www\vyog\api\ModelUsers.php(14): PDO->query('INSERT INTO use...')
+#1 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$slW3lSQ2...', '2021-01-22 07:0...')
+#2 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 14
+[22-Jan-2021 07:07:58 UTC] hello 
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_ERRMODE - assumed 'ATTR_ERRMODE' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 14
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. Db->__construct() C:\wamp64\www\vyog\api\register_user.php:21
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ERRMODE_EXCEPTION - assumed 'ERRMODE_EXCEPTION' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 14
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. Db->__construct() C:\wamp64\www\vyog\api\register_user.php:21
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_DEFAULT_FETCH_MODE - assumed 'ATTR_DEFAULT_FETCH_MODE' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 15
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. Db->__construct() C:\wamp64\www\vyog\api\register_user.php:21
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant FETCH_ASSOC - assumed 'FETCH_ASSOC' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 15
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. Db->__construct() C:\wamp64\www\vyog\api\register_user.php:21
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_EMULATE_PREPARES - assumed 'ATTR_EMULATE_PREPARES' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 16
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. Db->__construct() C:\wamp64\www\vyog\api\register_user.php:21
+[22-Jan-2021 07:07:58 UTC] Connection created successfully
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_ERRMODE - assumed 'ATTR_ERRMODE' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 14
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. ModelUsers->createUser() C:\wamp64\www\vyog\api\register_user.php:26
+[22-Jan-2021 07:07:58 UTC] PHP   3. Db->__construct() C:\wamp64\www\vyog\api\ModelUsers.php:13
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ERRMODE_EXCEPTION - assumed 'ERRMODE_EXCEPTION' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 14
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. ModelUsers->createUser() C:\wamp64\www\vyog\api\register_user.php:26
+[22-Jan-2021 07:07:58 UTC] PHP   3. Db->__construct() C:\wamp64\www\vyog\api\ModelUsers.php:13
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_DEFAULT_FETCH_MODE - assumed 'ATTR_DEFAULT_FETCH_MODE' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 15
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. ModelUsers->createUser() C:\wamp64\www\vyog\api\register_user.php:26
+[22-Jan-2021 07:07:58 UTC] PHP   3. Db->__construct() C:\wamp64\www\vyog\api\ModelUsers.php:13
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant FETCH_ASSOC - assumed 'FETCH_ASSOC' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 15
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. ModelUsers->createUser() C:\wamp64\www\vyog\api\register_user.php:26
+[22-Jan-2021 07:07:58 UTC] PHP   3. Db->__construct() C:\wamp64\www\vyog\api\ModelUsers.php:13
+[22-Jan-2021 07:07:58 UTC] PHP Warning:  Use of undefined constant ATTR_EMULATE_PREPARES - assumed 'ATTR_EMULATE_PREPARES' (this will throw an Error in a future version of PHP) in C:\wamp64\www\vyog\api\Db.php on line 16
+[22-Jan-2021 07:07:58 UTC] PHP Stack trace:
+[22-Jan-2021 07:07:58 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\register_user.php:0
+[22-Jan-2021 07:07:58 UTC] PHP   2. ModelUsers->createUser() C:\wamp64\www\vyog\api\register_user.php:26
+[22-Jan-2021 07:07:58 UTC] PHP   3. Db->__construct() C:\wamp64\www\vyog\api\ModelUsers.php:13
+[22-Jan-2021 07:07:58 UTC] Connection created successfully
+[22-Jan-2021 07:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in C:\wamp64\www\vyog\api\ModelUsers.php:15
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$MLCQn7r4...', '2021-01-22 07:0...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 15
+[22-Jan-2021 07:10:07 UTC] hello 
+[22-Jan-2021 07:10:07 UTC] Connection created successfully
+[22-Jan-2021 07:10:07 UTC] Connection created successfully
+[22-Jan-2021 07:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in C:\wamp64\www\vyog\api\ModelUsers.php:15
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$l1JnbcKv...', '2021-01-22 07:1...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 15
+[22-Jan-2021 07:17:47 UTC] hello 
+[22-Jan-2021 07:17:47 UTC] Connection created successfully
+[22-Jan-2021 07:17:47 UTC] Connection created successfully
+[22-Jan-2021 07:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::countRows() in C:\wamp64\www\vyog\api\ModelUsers.php:21
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$Oq645Skb...', '2021-01-22 07:1...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 21
+[22-Jan-2021 07:23:50 UTC] hello 
+[22-Jan-2021 07:23:50 UTC] Connection created successfully
+[22-Jan-2021 07:23:50 UTC] Connection created successfully
+[22-Jan-2021 07:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Db::rowCount() in C:\wamp64\www\vyog\api\ModelUsers.php:21
+Stack trace:
+#0 C:\wamp64\www\vyog\api\register_user.php(26): ModelUsers->createUser('Prince Agrawal', 'prince@lyzer.io', '$2y$10$20esBunB...', '2021-01-22 07:2...')
+#1 {main}
+  thrown in C:\wamp64\www\vyog\api\ModelUsers.php on line 21
+[22-Jan-2021 07:24:46 UTC] hello 
+[22-Jan-2021 07:24:46 UTC] Connection created successfully
+[22-Jan-2021 07:24:46 UTC] Connection created successfully
+[22-Jan-2021 07:24:46 UTC] user_created: '3'
+[22-Jan-2021 07:25:42 UTC] hello 
+[22-Jan-2021 07:25:42 UTC] Connection created successfully
+[22-Jan-2021 07:25:43 UTC] Connection created successfully
+[22-Jan-2021 07:25:43 UTC] user_created: '4'
+[22-Jan-2021 07:30:45 UTC] hello 
+[22-Jan-2021 07:30:45 UTC] Connection created successfully
+[22-Jan-2021 07:30:45 UTC] user_created: '5'
+[22-Jan-2021 08:54:55 UTC] hello 
+[22-Jan-2021 08:54:55 UTC] hello 
+[22-Jan-2021 08:55:46 UTC] hello 
+[22-Jan-2021 08:57:24 UTC] hello 
+[22-Jan-2021 08:58:07 UTC] hello 
+[22-Jan-2021 08:59:25 UTC] hello 
+[22-Jan-2021 10:50:47 UTC] hello 
+[22-Jan-2021 10:50:47 UTC] hello 
+[22-Jan-2021 11:02:28 UTC] hello 
+[22-Jan-2021 11:03:37 UTC] hello 
+[22-Jan-2021 11:06:11 UTC] hello 
+[22-Jan-2021 11:10:18 UTC] hello 
+[22-Jan-2021 11:10:18 UTC] Connection created successfully
+[22-Jan-2021 11:10:18 UTC] user_created: '6'
+[22-Jan-2021 11:12:32 UTC] hello 
+[22-Jan-2021 11:12:32 UTC] Connection created successfully
+[22-Jan-2021 11:12:32 UTC] user_created: '7'
+[22-Jan-2021 11:13:00 UTC] hello 
+[22-Jan-2021 11:13:00 UTC] Connection created successfully
+[22-Jan-2021 11:13:00 UTC] user_created: '8'
+[22-Jan-2021 12:09:50 UTC] hello 
+[22-Jan-2021 12:09:50 UTC] hello 
+[22-Jan-2021 12:09:50 UTC] Connection created successfully
+[22-Jan-2021 12:10:12 UTC] hello 
+[22-Jan-2021 12:10:12 UTC] Connection created successfully
+[22-Jan-2021 12:10:12 UTC] Connection created successfully
+[22-Jan-2021 12:10:12 UTC] user_created: '9'
+[25-Jan-2021 07:42:38 UTC] hello 
+[25-Jan-2021 07:42:38 UTC] hello 
+[25-Jan-2021 07:42:38 UTC] Connection created successfully
+[25-Jan-2021 07:42:38 UTC] Connection created successfully
+[25-Jan-2021 07:42:38 UTC] user_created: '10'

@@ -1,0 +1,4 @@
+[28-Jan-2021 06:41:36 UTC] PHP Notice:  Undefined variable: date_upd in C:\wamp64\www\vyog\api\ModelUsers.php on line 89
+[28-Jan-2021 06:41:36 UTC] PHP Stack trace:
+[28-Jan-2021 06:41:36 UTC] PHP   1. {main}() C:\wamp64\www\vyog\api\logout.php:0
+[28-Jan-2021 06:41:36 UTC] PHP   2. ModelUsers->unsetUserSessionByToken() C:\wamp64\www\vyog\api\logout.php:29
